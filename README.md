@@ -6,7 +6,7 @@ This is the official implementation for the ACTS algorithm.
 
 1. Overall framework
 
-![alt text](https://github.com/FanSmale/ACTS/blob/main/framework.png)
+![alt text](https://github.com/FanSmale/ACTS/blob/main/framework.jpg)
 
 DeepAL framework for hierarchical image classification. In this study, we focus on an information measurement called hierarchical dependency representation entropy (HDRE), a sample selection strategy called approximate class-balanced typical sampling (ACTS), and local probability suppression loss (LPSL). $c_i, i=1, \dots, m$ is the finest level of class label. ``Hierarchical Annotation'' means that the class label is annotated by the oracle in a top-down manner from coarse to fine. However, it is inefficient for a human to annotate the class labels from coarse to fine, hence we introduce a yes-or-no query modality.
 
