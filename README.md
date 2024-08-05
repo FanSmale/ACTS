@@ -24,4 +24,4 @@ The shallow feature layer always reveals texture or shape information, whereas t
 ## Code Structure:
 1. Four folders `CIFAR10, CIFAR100,FashionMNIST,KFPI` are the code for running on different benchmarks.
 2. `resnet.py` is the popular resnet structure.
-3. `acts.py` is the core sample selection approach, which will be uploaded soon, or contact us for acquiring ``minfan@swpu.edu.cn;yanxuewu2023@163.com''
+3. `acts.py` and `losses.py` is the core approaches of ACTS and LPSL, which will be uploaded soon, or please contact us for acquiring ``minfan@swpu.edu.cn;wangmin@swpu.edu.cn;yanxuewu2023@163.com''.
